@@ -42,13 +42,6 @@ This repository provides an **Image Caption Generation Model** that combines com
 2. Run the `model.py` script to train the model. It will save the trained model to a file named `image_caption_model.h5`.
 3. Use the `predict_caption()` function to generate captions for new images. Simply provide the path to the image you'd like to caption.
 
-    Example:
-
-    ```python
-    filename = "path/to/your/image.jpg"
-    image, caption = predict_caption(filename)
-    print("Generated Caption: ", " ".join(caption[:-1]))
-    ```
 
 ## Future Improvements
 
