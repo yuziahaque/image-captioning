@@ -26,7 +26,7 @@ This repository provides an **Image Caption Generation Model** that combines com
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/image-captioning.git
+    git clone https://github.com/yuziahaque/image-captioning.git
     cd image-captioning
     ```
 
