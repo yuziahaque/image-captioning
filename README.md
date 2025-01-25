@@ -21,20 +21,6 @@ This repository provides an **Image Caption Generation Model** that combines com
 
 4. **Generating Captions**: Once trained, the model can generate captions for any input image. The model uses the `<start>` token to begin caption generation and stops when it reaches the `<end>` token.
 
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yuziahaque/image-captioning.git
-    cd image-captioning
-    ```
-
-2. Install the necessary dependencies:
-
-    ```bash
-    pip install tensorflow matplotlib
-    ```
 
 ## Usage
 
